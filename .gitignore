@@ -5,3 +5,6 @@ node_modules/
 *-service-account*.json
 .DS_Store
 Thumbs.db
+
+# auto-sync runtime log (local only)
+.git/auto-sync.log
