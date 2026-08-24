@@ -12,9 +12,9 @@
     "downloads"
   ],
   "host_permissions": [
-    "__WARDEN_LINKS_WORKER_ORIGIN__/*",
-    "__WARDEN_VAULT_WORKER_ORIGIN__/*",
-    "__WARDEN_FILES_WORKER_ORIGIN__/*",
+    "https://warden-links.vedapatel05.workers.dev/*",
+    "https://warden-pw-sync.vedapatel05.workers.dev/*",
+    "https://warden-files.vedapatel05.workers.dev/*",
     "https://vedacpatel.github.io/*"
   ],
   "action": {

@@ -39,9 +39,9 @@
     //
     // Deploy all three from Warden/workers/ (see SETUP.md), then paste the URLs
     // Wrangler prints. Keep the path suffixes exactly as shown.
-    LINKS_URL: '__WARDEN_LINKS_WORKER__',   // e.g. https://warden-links.<sub>.workers.dev/links
-    VAULT_URL: '__WARDEN_VAULT_WORKER__',   // e.g. https://warden-pw-sync.<sub>.workers.dev/warden
-    FILES_URL: '__WARDEN_FILES_WORKER__',   // e.g. https://warden-files.<sub>.workers.dev
+    LINKS_URL: 'https://warden-links.vedapatel05.workers.dev/links',   // e.g. https://warden-links.<sub>.workers.dev/links
+    VAULT_URL: 'https://warden-pw-sync.vedapatel05.workers.dev/warden',   // e.g. https://warden-pw-sync.<sub>.workers.dev/warden
+    FILES_URL: 'https://warden-files.vedapatel05.workers.dev',   // e.g. https://warden-files.<sub>.workers.dev
 
     // Bucket the files worker stores attachments under. Must match the BUCKETS
     // map in Warden/workers/warden-files/worker.js.
