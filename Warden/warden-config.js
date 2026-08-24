@@ -65,9 +65,9 @@
     // enrolled a biometric silently invalidates every enrolled credential:
     // the authenticator will simply not offer them, with no error that says why.
     // Set it once, before she enables biometrics.
-    APP_ORIGIN: '__WARDEN_PAGES_ORIGIN__',        // e.g. https://vedaapatel.github.io
-    APP_URL:    '__WARDEN_APP_URL__',             // e.g. https://vedaapatel.github.io/A1/warden.html
-    BIO_RP_ID:  '__WARDEN_PAGES_HOST__',          // e.g. vedaapatel.github.io  (host only, no scheme)
+    APP_ORIGIN: 'https://vedacpatel.github.io',        // e.g. https://vedaapatel.github.io
+    APP_URL:    'https://vedacpatel.github.io/warden/warden.html',             // e.g. https://vedaapatel.github.io/A1/warden.html
+    BIO_RP_ID:  'vedacpatel.github.io',          // e.g. vedaapatel.github.io  (host only, no scheme)
 
     // ── 4. Optional / off by default ─────────────────────────────────────────
     // Cloud tab AI search. The Cloud tab ships present but unconfigured; leaving

@@ -15,7 +15,7 @@
     "__WARDEN_LINKS_WORKER_ORIGIN__/*",
     "__WARDEN_VAULT_WORKER_ORIGIN__/*",
     "__WARDEN_FILES_WORKER_ORIGIN__/*",
-    "__WARDEN_PAGES_ORIGIN__/*"
+    "https://vedacpatel.github.io/*"
   ],
   "action": {
     "default_popup": "popup.html",
@@ -35,7 +35,7 @@
         "<all_urls>"
       ],
       "exclude_matches": [
-        "__WARDEN_PAGES_ORIGIN__/*"
+        "https://vedacpatel.github.io/*"
       ],
       "js": [
         "warden-config.js",
@@ -49,7 +49,7 @@
     },
     {
       "matches": [
-        "__WARDEN_PAGES_ORIGIN__/*"
+        "https://vedacpatel.github.io/*"
       ],
       "js": [
         "warden-config.js",
