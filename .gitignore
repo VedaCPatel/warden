@@ -1,0 +1,7 @@
+node_modules/
+.wrangler/
+.dev.vars
+*.pem
+*-service-account*.json
+.DS_Store
+Thumbs.db
