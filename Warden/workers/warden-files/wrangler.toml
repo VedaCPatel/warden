@@ -11,7 +11,7 @@ enabled = false
 # warden-links uses for the token cache.
 [[kv_namespaces]]
 binding = "WARDEN"
-id = "__KV_NAMESPACE_ID_FILES__"
+id = "fd98d07101464e469e9630bcc599bafa"
 
 # No secrets. See the note at the top of worker.js for why this Worker has no
 # shared-key gate.

@@ -9,7 +9,7 @@ enabled = false
 # short-lived Google access token under key "gat".
 [[kv_namespaces]]
 binding = "TOKEN_CACHE"
-id = "__KV_NAMESPACE_ID__"
+id = "db95d395fc574d9493b8bc2ddf3c37ad"
 
 # Secrets — set with `wrangler secret put <NAME>`, never committed:
 #   FIREBASE_PROJECT_ID    — her Firebase project id
